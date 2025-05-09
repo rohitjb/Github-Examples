@@ -1,4 +1,4 @@
-name: Greetings
+name: Greetings-updated 
 
 on: [pull_request_target, issues, push]
 
